@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\lib\idea_rt.jar=61576:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\ayram\Desktop\Data Structure\IdeaProjects\HomeWork\Lab4\out\production\Lab4" Lab4
+playing "21" by Polo G
+playing "21 Gun Salute (feat. Young Adz)" by Headie One
+playing "3 Nights" by Dominic Fike
+playing "44 BullDog" by Pop Smoke
+playing "505" by Arctic Monkeys
+playing "5AM" by M Huncho
+
+PLayed: 
+"5AM" by M Huncho
+"505" by Arctic Monkeys
+"44 BullDog" by Pop Smoke
+"3 Nights" by Dominic Fike
+"21 Gun Salute (feat. Young Adz)" by Headie One
+"21" by Polo G
+
+Process finished with exit code 0
